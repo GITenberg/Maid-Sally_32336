@@ -1,0 +1,31 @@
+_repo: Maid-Sally_32336
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davidson, Bertha G.
+    gutenberg_agent_id: '35728'
+    url: http://www.gutenberg.org/2009/agents/35728
+covers:
+- cover_type: archival
+  image_path: 32336-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cheever, Harriet A. (Harriet Anna)
+    gutenberg_agent_id: '3816'
+    url: http://www.gutenberg.org/2009/agents/3816
+description: ''
+gutenberg_issued: '2010-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Juvenile fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+title: Maid Sally
+url: http://www.gutenberg.org/ebooks/32336
